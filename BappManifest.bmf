@@ -6,7 +6,7 @@ ScreenVersion: 1.0
 SerialVersion: 2
 MinPlatformVersion: 0
 ProOnly: False
-Author: Justin Moore, NCC Group
-ShortDescription: Automatically repeat requests, with replacement rules and response diffing.
+Author: ladecruze
+ShortDescription: Repeats request based on replacement rules and response comparison
 EntryPoint: build/libs/AutoRepeater-all.jar
 BuildCommand: gradle shadowJar
